@@ -1,3 +1,4 @@
+//example from protractor project, used to test protractor running on jeenkins
 describe('angularjs homepage', function() {
   it('should greet the named user', function() {
     browser.get('http://www.angularjs.org');
